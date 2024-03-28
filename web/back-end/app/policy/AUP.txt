@@ -1,0 +1,24 @@
+Meta Music Acceptable Use Policies
+Short version: We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on GitHub related to user safety, intellectual property, privacy, authenticity, and other limitations. In short, be excellent to each other.
+Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our Terms of Service, Corporate Terms of Service, and Privacy Statement. For customers subject to the Corporate Terms of Service, "you" and "your" refer to "Customer" or "Users". "We", "us", "our" refer to "GitHub".
+
+2. ACCEPTABLE USE POLICY.
+Meta Music App’s services shall not be used by any person or entity:
+
+in any way that violates any applicable federal, state, local, or international law or regulation;
+
+for fraudulent purposes;
+
+for the purpose of exploiting, harming, or attempting to exploit or harm minors in any way, including by exposing them to inappropriate content;
+
+to store, publish, display, or transmit defamatory, infringing, libelous, harassing, abusive, threatening or otherwise unlawful or tortious material;
+
+to store, publish, display or transmit material in violation of third-party privacy rights;
+
+to send unsolicited messages or postings, including bulk commercial advertising or informational announcements and "spam";
+
+to compromise or attempt to compromise the security of any Meta Music App or third party network, system, server, or account;
+
+to impersonate or attempt to impersonate Meta Music App, Meta Music App personnel, another subscriber or user, or any other person or entity; or
+
+in any way that restricts or inhibits anyone's use or enjoyment of Meta Music App’s services or which, as determined by Meta Music App, may harm Meta Music App or users of Meta Music App’s services or expose them to liability.

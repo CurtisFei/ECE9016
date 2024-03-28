@@ -1,0 +1,11 @@
+Meta music App's Security and Privacy Policy
+Who is responsible for the processing of your information?
+The data controller of your personal data is Meta Music App, Inc. For individuals outside North America, the data controller is Meta Music App B.V.
+
+This privacy statement does not apply to personal data we process as a service provider or data processor on behalf of our enterprise customers. Our data processing activities as service processor or data processor is governed by our Data Protection Agreement. If you are a consumer end-user of one of those organizations, you should read that organization’s privacy statement and direct any privacy inquiries to that organization.
+
+Meta Music App acting on your behalf
+In some cases, Meta Music App is acting only on your behalf for the personal data we collect and process in connection with our Service (for example, for the personal data added to a repository by the contributors to such repository). In such cases, Meta Music App will only process the data in order to provide the Service requested by you. Please note that subject to our Private Information Removal Policy contributors’ requests to remove personal data generally require notice to and action from the repository owner.
+
+What information Meta Music App collects
+The personal data we collect depends on how you interact with us, the services you use, and the choices you make. We collect information about you from different sources and in various ways when you use our Service, including information you provide directly, information collected automatically, third-party data sources, and data we infer or generate from other data.

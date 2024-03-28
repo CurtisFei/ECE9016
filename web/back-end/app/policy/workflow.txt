@@ -1,0 +1,13 @@
+Workflow:
+
+1. All unauthenticated and authenticated users can check the policy and terms.
+
+2. Authenticated users can send requests with date and review that is alleged to infringe.
+
+3. Authenticated users can send notices with date and review that is alleged to infringe.
+
+4. Authenticated users can send disputes with date and review that is being disputed.
+
+5. Administrators can check all reviews and disable display of reviews with alleged copyright violations.
+
+6. Any contested content is restored.

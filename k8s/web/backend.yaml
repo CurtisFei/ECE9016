@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-backend
+  namespace: dev
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: my-backend
+  template:
+    metadata:
+      labels:
+        app: my-backend
+    spec:
+      containers:
+        - name: back-end
+          image: us-central1-docker.pkg.dev/ece9016-cloud-computing/my-registry/back-end:v1
+          ports:
+            - containerPort: 5000
+              protocol: TCP
+          env:
+            - name: MYSQL_HOST
+              value: "mysql-service"
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: backend-service
+  namespace: dev
+spec:
+  selector:
+    app: my-backend
+  ports:
+    - protocol: TCP
+      port: 5000
+      targetPort: 5000
+  type: ClusterIP

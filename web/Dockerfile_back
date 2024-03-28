@@ -1,0 +1,11 @@
+FROM node:14-alpine
+
+COPY ./back-end /app/
+
+WORKDIR /app/back-end
+
+RUN npm install
+
+EXPOSE 5000
+
+ENTRYPOINT ["npm", "run", "start:dev"]
