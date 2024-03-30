@@ -8,7 +8,7 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: /home/curtisfei218/group-project/k8s/pv/mysql
+    path: /home/curtisfei218/group-project/k8s-prod/pv/mysql
 
 ---
 
